@@ -119,7 +119,7 @@ async def on_message(message):
 
 
 def run_discord_bot():
-    TOKEN = 'MTEwNDA1OTAyMTMwNjExMDAyMw.GuCyWo.6AjQBb1CvMoBAvQegd3KvSR8laxiwnC91SSzVs'
+    TOKEN = ''
     intents = discord.Intents.default()
     intents.messages = True
     intents.guilds = True
